@@ -1,0 +1,22 @@
+.first{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input{
+  width:100% ;
+}
+
+.item-container{
+  text-align: left;
+}
+
+.row{
+  margin: 15px 5px;
+}
+
+.my-button{
+  min-width: 80px;
+}
